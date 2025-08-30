@@ -1,2 +1,2 @@
 # AniHotAppAndroid
-Application with a good interface for watching anime series
+Приложение для просмотра аниме в любой озвучке без рекламы и банеров.
