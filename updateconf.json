@@ -1,7 +1,8 @@
 {
     "version": "1.0.1",
     "app_url": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/beta/AniHot-1.0.0.apk",
-    "sha256": "42ad804a2d31a20a1983fb1ccbf2d58e7828fd36251d49280806126f1a4718a2",
+    "sha256": "882b3c925133a97fb4b9fde9d04058f1feb904680f279a1eb755fb8e9903fa50",
     "notes": "Изменения:\n- Исправлен баг с зависанием плеера\n- Добавлена поддержка автообновления\n- Улучшено сохранение прогресса\n- Оптимизация\n- Смена скорости в плеере"
 
   }
+
