@@ -7,4 +7,4 @@
 ## Контакты
 https://t.me/Enagie - в ТГ
 
-https://t.me/glany_studio - Студия работающая над приложением
+https://t.me/glanystudio - Студия работающая над приложением
