@@ -1,4 +1,4 @@
-Copyright (c) 2025 Glany Studio
+Copyright (c) 2025 Glany Studio.
 All rights reserved.
 
 Настоящее программное обеспечение и исходные коды являются
