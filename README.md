@@ -8,3 +8,6 @@
 https://t.me/Enagie - в ТГ
 
 https://t.me/glanystudio - Студия работающая над приложением
+
+## ТГ канал
+https://t.me/anihot_news - Официальный канал новостей
