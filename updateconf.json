@@ -1,6 +1,6 @@
 {
-    "version": "1.0.4",
-    "app_url": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/1.0.4b/AniHot-1.0.4.apk",
-    "sha256": "727a5a36024d697e5d19432d56a7a8a003538808cdc08cdc5c4f708f579ffb11",
-    "notes": "Изменения тут, чтобы заработало нужно установить обновление: https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/1.0.4b"
+    "version": "2.0.0",
+    "app_url": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/2.0.0r/AniHot-2.0.0.apk",
+    "sha256": "2b6e38ef9343689d50bbaa1d5f53feabdb631ffb4d2dedc531969b3931ff8318",
+    "notes": "Изменения тут, чтобы заработало нужно установить обновление: https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/2.0.0r"
 }
