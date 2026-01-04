@@ -2,5 +2,5 @@
     "version": "3.0.2",
     "app_url": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/3.0.2b/AniHot-3.0.2.apk",
     "sha256": "570215d32638247149b71042a89c3fb5721f57df20e24e2321f2d061a43eee44",
-    "notes": "Изменения тут, в версиях 3.x.x переписали движок и весь код, чтобы заработало нужно установить обновление: https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/3.0.2b"
+    "notes": "В версиях 3.x.x переписали движок и весь код, чтобы заработало нужно установить обновление, подробнее: https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/3.0.2b"
 }
