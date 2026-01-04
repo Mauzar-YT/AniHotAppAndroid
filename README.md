@@ -1,4 +1,4 @@
-# AniHot App for Android [BETA]
+# AniHot App for Android
 Приложение для просмотра аниме в любой озвучке без рекламы и банеров.
 
 ## Описание
