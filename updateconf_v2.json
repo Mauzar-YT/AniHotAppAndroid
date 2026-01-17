@@ -2,7 +2,6 @@
   "notes": "Новая глоб версия 4.x.x, в которой добавили синхронизацию и личный кабинет, чтобы заработало нужно установить обновление, подробнее читай на странице версии",
   "url_notes": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/4.0.0r",
   "versions": [
-    ["4.0.0", "9262ab44f30d5e4e0e62a48fbbc292197598fdf966b158b219a1caa735ed3a69", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/4.0.0r/AniHot-4.0.0.apk"],
-    ["3.0.8", "a022c9a77e364de2eee13022e1bac64715362a91ff7742f3ec6104a0ebff1308", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/3.0.8r/AniHot-3.0.8.apk"]
+    ["4.0.0", "9262ab44f30d5e4e0e62a48fbbc292197598fdf966b158b219a1caa735ed3a69", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/4.0.0r/AniHot-4.0.0.apk"]
   ]
 }
