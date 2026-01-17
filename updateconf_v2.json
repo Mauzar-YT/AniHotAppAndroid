@@ -2,6 +2,7 @@
   "notes": "В версиях 3.x.x переписали движок и весь код, чтобы заработало нужно установить обновление, подробнее читай на странице версии",
   "url_notes": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/3.0.8r",
   "versions": [
+    ["4.0.0", "a022c9a77e364de2eee13022e1bac64715362a91ff7742f3ec6104a0ebff1308", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/3.0.8r/AniHot-3.0.8.apk"],
     ["3.0.8", "a022c9a77e364de2eee13022e1bac64715362a91ff7742f3ec6104a0ebff1308", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/3.0.8r/AniHot-3.0.8.apk"]
   ]
 }
