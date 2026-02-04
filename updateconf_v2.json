@@ -2,6 +2,7 @@
   "notes": "Новая глоб. версия 4.x.x, в которой добавили синхронизацию и личный кабинет + многое другое, чтобы заработало нужно установить обновление, подробнее читай на странице версии",
   "url_notes": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/4.0.5r",
   "versions": [
-    ["4.0.5", "b12e89dcaf4feb42326d466498a451f3cc92063a37677418a6fd65722e9cd9cc", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/4.0.5r/AniHot-4.0.5.apk"]
+    ["4.0.5", "b12e89dcaf4feb42326d466498a451f3cc92063a37677418a6fd65722e9cd9cc", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/4.0.5r/AniHot-4.0.5.apk"],
+    ["4.0.6", "b12e89dcaf4feb42326d466498a451f3cc92063a37677418a6fd65722e9cd9cc", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/4.0.5r/AniHot-4.0.5.apk"]
   ]
 }
