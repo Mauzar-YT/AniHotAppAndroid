@@ -1,7 +1,7 @@
 {
   "notes": "Новая глоб. версия 5.x.x, в которой уже есть много чего, чтобы заработало нужно установить обновление, подробнее читай на странице версии",
-  "url_notes": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/5.0.5r",
+  "url_notes": "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/tag/5.0.6r",
   "versions": [
-    ["5.0.5", "3ab209209d114d797bf141ffa20f9527ddd0f24ba7919d98488786116f342d1f", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/5.0.5r/AniHot-5.0.5.apk"]
+    ["5.0.6", "dacb991668b287d05fe7dfcaa63ccc859eab3c1b6ce3b89119f1eec7bebe4e24", "https://github.com/Mauzar-YT/AniHotAppAndroid/releases/download/5.0.6r/AniHot-5.0.6.apk"]
   ]
 }
