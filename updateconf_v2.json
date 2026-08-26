@@ -1,7 +1,7 @@
 {
   "notes": "Новая глоб. версия 6.x.x, в которой уже есть много чего, чтобы заработало нужно установить обновление, подробнее читай на странице версии или в ленте AniHot App (Доступно для зарегистрированных)",
-  "url_notes": "https://github.com/MrGlany/AniHotAppAndroid/releases/tag/6.2.2r",
+  "url_notes": "https://github.com/MrGlany/AniHotAppAndroid/releases/tag/6.2.3r",
   "versions": [
-    ["6.2.2", "225d56bbab585064be0ae4c6ac80b12d189a2a3088d1faa3021ba1512aba597a", "https://github.com/MrGlany/AniHotAppAndroid/releases/download/6.2.2r/AniHot-6.2.2.apk"]
+    ["6.2.3", "90cee874e9dda50f154c9adfa78a121b0d7848d345a0a7465d60382400a2b81a", "https://github.com/MrGlany/AniHotAppAndroid/releases/download/6.2.3r/AniHot-6.2.3.apk"]
   ]
 }
